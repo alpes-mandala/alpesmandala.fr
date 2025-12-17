@@ -1,12 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {allowedDevOrigins: ["https://mandala.oracle.marionetmarin.fr"],
-  output: "export",
-  typescript: {
-    ignoreBuildErrors: true,
-  },
-  images: {
-    unoptimized: true,
-  },
-};
+const nextConfig = {};
 
 export default nextConfig;
