@@ -93,7 +93,7 @@ export function Navigation() {
               Tarifs
             </Link>
             <Link
-              href="/contact"
+              href="/therapeutes"
               className="block text-sm tracking-wide hover:text-accent transition-colors"
             >
               Contact

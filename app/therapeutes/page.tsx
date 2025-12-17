@@ -108,7 +108,7 @@ export default function TherapeutesPage() {
             Réservez votre séance avec le thérapeute de votre choix
           </p>
           <a
-            href="/contact"
+            href="/therapeutes"
             className="inline-block bg-accent text-accent-foreground px-8 py-4 hover:bg-accent/90 transition-all duration-300 text-sm tracking-wide uppercase hover:shadow-lg"
           >
             Réserver maintenant

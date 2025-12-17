@@ -119,7 +119,7 @@ export default function Home() {
               Réservez votre séance dès maintenant
             </p>
             <Link
-              href="/contact"
+              href="/therapeutes"
               className="inline-block px-8 py-3 bg-accent text-accent-foreground rounded-lg hover:bg-accent/90 transition-smooth font-light tracking-wide hover:shadow-lg hover:scale-105"
             >
               Réserver maintenant
