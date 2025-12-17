@@ -9,8 +9,8 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 const _titleFont = Story_Script({ subsets: ["latin"], weight: "400"});
 
 export const metadata: Metadata = {
-  title: "Alpes Mandala - Massage Tuina à Megève",
-  description: "Massage Tuina traditionnel en station de montagne. Détente et bien-être luxe à Megève et Combloux.",
+  title: "Alpes Mandala - Médecine chinoise à Megève",
+  description: "Médecine chinoise traditionnelle en station de montagne. Détente et bien-être luxe à Megève et Combloux.",
 }
 
 export default function RootLayout({

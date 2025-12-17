@@ -6,7 +6,7 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-light tracking-wide mb-4 text-accent">Alpes Mandala</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Massage Tuina traditionnel pour votre bien-être en montagne.
+              Médecine chinoise traditionnelle pour votre bien-être en montagne.
             </p>
           </div>
 
