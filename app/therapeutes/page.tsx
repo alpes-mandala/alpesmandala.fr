@@ -30,19 +30,19 @@ export default function TherapeutesPage() {
     },
     {
       name: "Catherine",
-      phone: "0612345678",
+      phone: "06 33 31 64 29",
       specialty: "Qi Gong, Massage Tui Na",
       description:
-        "XXX",
-      image: "/professional-male-massage-therapist-portrait-in-ze.jpg",
+        "Catherine est praticienne en médecine traditionnelle chinoise par le massage Tuina et enseignante en Qi Gong, formée en France et en Chine et imprégnée de cette philosophie de vie issue du taoïsme. \nElle vous accompagne par le massage Tuina  (reconnexion au corps, détente et  stimulation énergétique en lien avec les méridiens et points de digipuncture), ou par une séance de Qi Gong personnalisée.",
+      image: "/catherine.jpg",
     },
     {
       name: "Vivian",
-      phone: "0612345678",
+      phone: "06 79 93 13 35",
       specialty: "Massage Tuina, Soins énergétiques",
       description:
-        "XXX",
-      image: "/gentle-female-massage-therapist-portrait-peaceful-.jpg",
+        "Praticien en médecine traditionnelle chinoise depuis 20 ans, Vivian vous propose de mettre ses compétences à votre service par le massage Tuina, massage traditionnel chinois. \nVivian peut également vous proposer des cours d'initiation au Taï Ji Quan qu'il pratique avec passion.",
+      image: "/vivian.jpg",
     },
   ]
 
