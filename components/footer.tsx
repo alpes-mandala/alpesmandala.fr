@@ -2,7 +2,7 @@ export function Footer() {
   return (
     <footer className="bg-secondary/30 border-t border-border">
       <div className="max-w-6xl mx-auto px-6 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-8">
           <div>
             <h3 className="text-lg font-light tracking-wide mb-4 text-accent">Alpes Mandala</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
@@ -16,15 +16,6 @@ export function Footer() {
               Lundi - Dimanche
               <br />
               Sur rendez-vous
-            </p>
-          </div>
-
-          <div>
-            <h4 className="text-sm font-light tracking-wide mb-4 uppercase">Contact</h4>
-            <p className="text-sm text-muted-foreground">
-              +33 (0)4 50 XX XX XX
-              <br />
-              contact@tuina-megeve.fr
             </p>
           </div>
         </div>
