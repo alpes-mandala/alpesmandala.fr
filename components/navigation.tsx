@@ -2,7 +2,7 @@
 
 import { titleFont } from "@/app/fonts";
 import { cn } from "@/lib/utils";
-import logo from "@/public/logo.png";
+import logo from "@/app/icon.png";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
