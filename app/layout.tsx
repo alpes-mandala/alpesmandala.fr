@@ -9,11 +9,8 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 const _titleFont = Story_Script({ subsets: ["latin"], weight: "400"});
 
 export const metadata: Metadata = {
-  title: "Alpes Mandala - Médecine douce et osthéopathie à Megève, Combloux et Cordon",
-  description: "Médecine douce et osthéopathie en station de montagne. Détente et bien-être luxe à Megève, Combloux et Cordon.",
-  icons: {
-    
-  },
+  title: "Alpes Mandala - Médecine douce et ostéopathie en montagne",
+  description: "Médecine douce et osthéopathie en station de montagne. Détente et bien-être par nos thérapeutes qualifiés à Megève, Combloux et Cordon.",
   keywords: [
     "médecine douce",
     "ostéopathie",
@@ -33,6 +30,9 @@ export const metadata: Metadata = {
     "relaxation",
     "soins énergétiques",
   ],
+  alternates: {
+      canonical: './',
+  },
   robots: {
     index: true,
     follow: true,
