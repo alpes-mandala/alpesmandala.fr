@@ -26,7 +26,7 @@ export default function Tarifs() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="text-center mb-16 space-y-4 animate-fade-in-up">
             <p className="text-lg text-muted-foreground font-light max-w-2xl mx-auto">
-              Une expérience de bien-être luxueuse à un tarif unique
+              Une expérience thérapeutique traditionnelle à un tarif unique
             </p>
           </div>
 
