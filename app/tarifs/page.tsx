@@ -17,7 +17,6 @@ export default function Tarifs() {
           />
           <div className="absolute inset-0 bg-black/30 flex items-center justify-center animate-fade-in">
             <div className="text-center text-white space-y-4">
-              <p className="text-sm tracking-widest uppercase animate-fade-in-down">Nos prestations</p>
               <h1 className="text-5xl md:text-6xl font-light tracking-tight animate-fade-in-up">Tarifs</h1>
             </div>
           </div>
@@ -37,7 +36,7 @@ export default function Tarifs() {
                 <p className="text-lg text-muted-foreground">par heure</p>
               </div>
               <p className="text-sm text-muted-foreground leading-relaxed max-w-md mx-auto">
-                Une séance personnalisée de médecine chinoise adaptée à vos besoins
+                Une séance personnalisée adaptée à vos besoins
               </p>
             </div>
           </div>
