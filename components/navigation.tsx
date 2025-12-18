@@ -53,7 +53,7 @@ export function Navigation() {
 
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className="md:hidden text-foreground"
+          className="md:hidden text-accent"
         >
           <svg
             className="w-6 h-6"
