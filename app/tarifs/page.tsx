@@ -8,12 +8,12 @@ export default function Tarifs() {
       <Navigation />
 
       <main className="pt-32 pb-20">
-        <div className="relative h-80 mb-16 -mx-6 overflow-hidden">
+        <div className="relative h-80 mb-16 w-screen overflow-hidden">
           <Image
             src="/luxury-spa-treatment-room-with-massage-table-and-c.jpg"
             alt="Salle de traitement premium"
             fill
-            className="object-cover"
+            className="object-cover w-full"
           />
           <div className="absolute inset-0 bg-black/30 flex items-center justify-center animate-fade-in">
             <div className="text-center text-white space-y-4">
